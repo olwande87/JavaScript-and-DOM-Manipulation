@@ -1,5 +1,5 @@
 .container-fluid {
-    background: rgb(216,216,216);
+    background: rgb(238, 229, 201);
     outline: .1px double black;
     padding: 5%;
 }
@@ -9,7 +9,7 @@
     background-size: 100%;
     background-repeat:no-repeat;
     display: compact;
-    color: rgb(255,255,255);
+    color: #bce4e7;
 }
 
 h2 {
